@@ -1,0 +1,1 @@
+Sous Windows, exécutez WD Discovery.exe pour installer le logiciel WD afin d'obtenir un plan de sauvegarde et modifier les paramètres du disque. Si vous ne disposez d'aucune connexion à Internet, installez WD Backup™ et WD Drive Utilities™ via le dossier WD Software Offline Installers > For Windows.
