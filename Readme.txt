@@ -122,4 +122,4 @@ Türkçe
 
 Windows için yedekleme planı almanıza ve disk ayarlarını değiştirmenize yardımcı olacak WD yazılımını yüklemek amacıyla WD Discovery.exe dosyasını çalıştırın. İnternet bağlantınız yoksa lütfen WD Software Offline Installers > For Windows klasöründen WD Backup™ ve WD Drive Utilities™ i yükleyin.
 
-Mac için disk ayarlarını değiştirmenize yardımcı olacak WD yazılımını yüklemek amacıyla WD Discovery for Mac.dmg dosyasını açın. İnternet bağlantınız yoksa lütfen WD Software Offline Installers > For Mac klasöründen WD Drive Utilities™ i yükleyin. 1234
+Mac için disk ayarlarını değiştirmenize yardımcı olacak WD yazılımını yüklemek amacıyla WD Discovery for Mac.dmg dosyasını açın. İnternet bağlantınız yoksa lütfen WD Software Offline Installers > For Mac klasöründen WD Drive Utilities™ i yükleyin. 1234. wwww
